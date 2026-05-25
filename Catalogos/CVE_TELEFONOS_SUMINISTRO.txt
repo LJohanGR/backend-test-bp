@@ -1,0 +1,5 @@
+Cat.TelefonoSuministro
+0 NO APLICA
+1 RED ÁEREA
+2 RED SUBTERRANEA
+3 Otro

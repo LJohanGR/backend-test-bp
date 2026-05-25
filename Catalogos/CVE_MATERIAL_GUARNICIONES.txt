@@ -1,0 +1,5 @@
+Cat.Guarniciones
+0 NO APLICA
+1 CONCRETO
+2 OTRO
+3 NO EXISTE

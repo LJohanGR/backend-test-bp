@@ -1,0 +1,4 @@
+Cat.Suministro
+0 NO APLICA
+1 EXISTE
+2 NO EXISTE

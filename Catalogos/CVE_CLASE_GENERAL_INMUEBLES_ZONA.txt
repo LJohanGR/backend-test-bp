@@ -1,0 +1,11 @@
+Cat.ClasesConstruccion
+0 NO APLICA
+1 Mínima
+2 Económica
+3 Interés Social
+4 Media
+5 Semilujo
+6 Residencial
+7 Residencial Plus
+7 Residencial Plus +
+8 Única
